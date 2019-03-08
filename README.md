@@ -6,6 +6,6 @@ It's still a work in progress and if you have any suggestions or see any issues 
 
 ## Installation and use
 1. Open the **Extensions** sidebar in VS Code
-2. Search for `Horizon`
+2. Search for `Hotline`
 3. Click **Install**
 4. Activate the theme with <kbd>⌘</kbd>+<kbd>K</kbd>, <kbd>⌘</kbd>+<kbd>T</kbd> or <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>T</kbd> and select `Hotline`
