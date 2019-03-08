@@ -1,8 +1,22 @@
 {
     "name": "hotline",
     "displayName": "Hotline",
-    "description": "Hotline theme to make your codes better.",
-    "version": "0.0.1",
+    "description": "A dark theme with bright colors.",
+    "version": "0.1.4",
+    "icon": "assets/hotline-logo-icon.png",
+    "galleryBanner": {
+        "color": "#1b1a1a",
+        "theme": "dark"
+    },
+    "publisher": "kel",
+    "author": {
+        "name": "Kelly Karnetsky",
+        "url": "https://github.com/kel",
+        "email": "me@kel.dev"
+    },
+    "repository": {
+        "url": "https://github.com/kel/Hotline-Theme-VSCode"
+    },
     "engines": {
         "vscode": "^1.31.0"
     },
