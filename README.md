@@ -4,6 +4,22 @@
 
 It's still a work in progress and if you have any suggestions or see any issues please let me know.
 
+## Screenshots
+![Hotline Logo Banner](assets/screen-wp-js.jpg)
+> *JavaScript*
+
+![Hotline Logo Banner](assets/screen-wp-json.jpg)
+> *JSON*
+
+![Hotline Logo Banner](assets/screen-wp-php-class.jpg)
+> *PHP class*
+
+![Hotline Logo Banner](assets/screen-wp-php-html.jpg)
+> *PHP mixed with HTML, a typical WordPress theme template*
+
+![Hotline Logo Banner](assets/screen-wp-scss.jpg)
+> *CSS SCSS*
+
 ## Installation and use
 1. Open the **Extensions** sidebar in VS Code
 2. Search for `Hotline`
