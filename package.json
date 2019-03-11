@@ -2,7 +2,7 @@
     "name": "hotline",
     "displayName": "Hotline",
     "description": "A dark theme with bright colors.",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "icon": "assets/hotline-logo-icon.png",
     "galleryBanner": {
         "color": "#1b1a1a",
